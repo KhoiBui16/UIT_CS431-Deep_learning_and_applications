@@ -216,9 +216,9 @@ python eval.py
 
 ## 🤗 Model trên Hugging Face Hub
 
-> 📌 **[PLACEHOLDER - Thêm link model sau]**
-> 
-> Link model fine-tuned sẽ được cập nhật tại đây.
+| Model | Link |
+|-------|------|
+| **Vietnamese Qwen2.5 Math 1.5B** | [🤗 piikerpham/Vietnamese-Qwen2.5-math-1.5B](https://huggingface.co/piikerpham/Vietnamese-Qwen2.5-math-1.5B) |
 
 ---
 
@@ -241,11 +241,11 @@ python eval.py
 
 ## 👥 Tác Giả
 
-> 📌 **[PLACEHOLDER - Thêm thông tin tác giả]**
-> 
-> - **Họ tên**: [Tên tác giả]
-> - **Email**: [email@example.com]
-> - **GitHub**: [username]
+| STT | Họ tên | Email | GitHub |
+|-----|--------|-------|--------|
+| 1 | **Bùi Nhật Anh Khôi** | khoib1601@gmail.com | [@KhoiBui16](https://github.com/KhoiBui16) |
+| 2 | **Đinh Lê Bình An** | 23520004@gm.uit.edu.vn | [@BinhAnndapoet](https://github.com/BinhAnndapoet) |
+| 3 | **Phạm Quốc Nam** | pikkerpham@gmail.com | [@PhamQuocNam](https://github.com/PhamQuocNam) |
 
 ---
 
